@@ -1,16 +1,48 @@
-## Hi there 👋
 
-<!--
-**wasantha2000/wasantha2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Wasantha</h1>
+<h3 align="center">💻 Undergraduate | 📚 BICT Student | 🛠️ Future Network Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+tech!;Java+%7C+C+%7C+HTML+%7C+JavaScript;Let's+build+something+cool!+🚀" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 About Me
+
+- 🔭 I’m currently working on university projects using **Java**, **PHP**, and **MySQL**
+- 🌱 I’m learning **programming languages** and improving my coding skills
+- 💬 Ask me about **Java**, **C Programming**, and **HTML/JS**
+- 🎯 Goal: Become a professional Full Stack Developer
+- 🧠 Always learning something new
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wasantha200&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasantha123&theme=radical" width="48%"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: www.wasanthakeerthi9@gmail.com
+- 🧑‍💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/wasantha-keerthi-281032298)
+
+---
+
+> “The beautiful thing about learning is that nobody can take it away from you.” – B.B. King
