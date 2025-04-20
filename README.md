@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasantha200&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasantha123&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wasantha2000&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasantha2000&theme=radical" width="48%"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 ### 📫 Connect With Me
 
 - 📧 Email: www.wasanthakeerthi9@gmail.com
-- 🧑‍💼 LinkedIn: [LinkedIn Profile](www.linkedin.com/in/wasantha-keerthi-281032298)
+- 🧑‍💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/wasantha-keerthi-281032298/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3BLM8tQP%2B9SGiPvbHl36%2FZ4g%3D%3D)
 
 ---
 
