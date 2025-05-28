@@ -3,6 +3,10 @@
 <h3 align="center">💻 Undergraduate | 📚 BICT Student | 🛠️ Future Network Engineer</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wasantha2000&label=Profile+Views&color=0e75b6&style=flat" alt="wasantha2000" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+tech!;Java+%7C+C+%7C+HTML+%7C+JavaScript;Let's+build+something+cool!+🚀" />
 </p>
 
